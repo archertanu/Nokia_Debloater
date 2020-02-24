@@ -36,3 +36,19 @@ pm uninstall -k --user 0 app
 pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 
 ```
+
+##Remove Permanently "Most easy reliable Way"
+```bash
+Flash using TWRP(Magisk & busybox recommnded)
+https://androidfilehost.com/?w=files&flid=305714
+
+Note: This is not systemless-ly process.So can't be Undone.Proceed carefully.
+```
+##Remove Systemless-ly by Debloater(Terminal Emulator) Magisk module by @veez21
+```bash
+Download Debloat-systemless-ly.txt put it in sdcard rename if u want install magisk,
+busybox and Debloat magisk module and any terminal.run "debloat" command followed by "su"
+ give root permission for terminal app and selext "i - import-config" option when
+promt then enter "Debloat-systemless-ly.txt" location. Reboot & Enjoy.
+
+```
