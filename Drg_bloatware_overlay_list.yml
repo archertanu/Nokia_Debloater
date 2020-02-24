@@ -1,0 +1,27 @@
+overlays:
+  - com.hmdglobal.datago.overlay.base
+  - com.android.providers.calendar.overlay.d.base.s600ww
+  - com.evenwell.factorywizard.overlay.base
+  - com.android.stk.base
+  - com.evenwell.nps.overlay.base
+  - com.evenwell.autoregistration.overlay.base
+  - com.evenwell.autoregistration.overlay.d.base.s600ww
+  - com.evenwell.legalterm.overlay.base
+  - com.android.retaildemo.overlay.base
+  - com.evenwell.stbmonitor.data.overlay.base
+  - com.evenwell.PowerMonitor.overlay.base
+  - com.evenwell.DbgCfgTool.overlay.base
+  - com.evenwell.AprUploadService.data.overlay.base
+  - com.evenwell.batteryprotect.overlay.base
+  - com.evenwell.CPClient.overlay.base
+  - com.evenwell.partnerbrowsercustomizations.overlay.base
+  - com.android.partnerbrowsercustomizations.btl.s600ww.overlay
+  - com.evenwell.SetupWizard.overlay.base
+  - com.evenwell.SetupWizard.overlay.d.base.s600ww
+  - com.evenwell.DeviceMonitorControl.data.overlay.base
+  - com.evenwell.custmanager.data.overlay.base
+  - com.evenwell.pushagent.overlay.base
+  - com.evenwell.phone.overlay.base
+  - com.evenwell.dataagent.overlay.base
+  - com.evenwell.retaildemoapp.overlay.base
+
