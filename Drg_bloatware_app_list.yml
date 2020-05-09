@@ -72,7 +72,6 @@ apps:
   - com.google.android.onetimeinitializer
   - com.google.android.apps.work.oobconfig
   - com.google.android.setupwizard
-  - com.qualcomm.qcrilmsgtunnel
   - com.google.android.apps.nbu.files
   - com.google.android.ims
   - com.google.android.feedback
